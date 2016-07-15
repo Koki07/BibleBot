@@ -3,5 +3,9 @@
 
 ## 実行環境
 - Python3.5.2
-- MeCab
 - SQLite
+
+## 必要ライブラリ
+- MeCab
+- slackbot
+
